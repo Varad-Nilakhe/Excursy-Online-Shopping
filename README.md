@@ -1,3 +1,3 @@
 # Excursy-Online-Shopping
 Excursy Online Laptop shopping website
-Link - https://excursy-shopping.herokuapp.com/
+Link - http://excursyofficial.epizy.com/
